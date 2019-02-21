@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.6"
+install:
+  - pip install .[dev]
+script:
+  - black --check bieberhose tests
+  - isort -c
+  - flake8
+  - pytest

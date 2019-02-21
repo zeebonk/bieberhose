@@ -1,4 +1,4 @@
-# bieberhose
+# bieberhose [![Build Status](https://travis-ci.org/zeebonk/bieberhose.svg?branch=master)](https://travis-ci.org/zeebonk/bieberhose)
 
 ![bieberhose header](/images/header.png)
 
